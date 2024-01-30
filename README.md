@@ -1,4 +1,4 @@
-# Más algoritmos de ordenación (agarros que vienen curvas)
+# Más algoritmos de ordenación (agarraos que vienen curvas)
 ### Selección
 El algoritmo de [selección](https://es.wikipedia.org/wiki/Ordenamiento_por_selecci%C3%B3n). su eficiencia es de O(n²).  Consiste en ir buscando el elemento más pequeño del array y colocarlo en la primera posición, luego el segundo más pequeño y colocarlo en la segunda posición, y así sucesivamente. Este método es más eficiente que el método de la burbuja, ya que solo hace una comparación por cada iteración. En definitiva, en cada iteración, se selecciona el menor elemento del subarray no ordenado y se intercambia con el primer elemento de este subarray.
 - https://www.youtube.com/watch?v=Ns4TPTC8whw
